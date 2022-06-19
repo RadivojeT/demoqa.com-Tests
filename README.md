@@ -1,7 +1,7 @@
 # demoqa.com-Tests
 DEMOQA.COM TESTS
 
-demoqa.com is a basic demosite provided by toolsqa.com to learn and practice Selenium.
+demoqa.com is a basic demosite provided by toolsqa.com to learn and practice Selenium. It contains training modules like contact forms, menus to select, buttons to click etc.
 
 Test Plan:
 
